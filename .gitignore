@@ -30,6 +30,7 @@ book/src/puzzle_*/media/*.gif
 .claude/
 .agents/
 .agent/
+AGENTS.md
 
 # llvm
 *.ll
